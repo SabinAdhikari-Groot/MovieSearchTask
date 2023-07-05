@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+    font-family: cursive;
+    color: white;
+}
+.firstp{
+    background-color: #374343;
+    color: #cfb4b4;
+    display: flex;
+    position: sticky;
+    width: 100%;
+    padding: 10px;
+    justify-content: center;
+    font-size: 25px;
+}
+.searchdiv{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+#movie-name{
+    border: 2px solid rgb(95, 38, 218);
+    border-radius: 5px;
+    width: 300px;
+    padding: 10px;
+}
+button {
+    width: 180px;
+    background-color: rgb(53, 73, 69);
+    margin-left: 5px;
+    border-radius: 5px;
+}
+#movieTitle {
+    text-align: center;
+}
+#rating{
+    text-align: center;
+}
+.footer {
+    background-color: #374343;
+    padding: 20px;
+    text-align: center;
+    color: #cfb4b4;
+    font-size: 18px;
+    bottom: 0px;
+    width: 100%;
+  }
+
+  
